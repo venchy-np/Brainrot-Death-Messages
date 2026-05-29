@@ -1,6 +1,6 @@
 # Brainrot Death Messages
 
-A lightweight Minecraft plugin that replaces boring death messages with chaotic Italian brainrot inspired lines for falls, mobs, PvP, fire, void, and more.
+A lightweight Minecraft plugin that replaces boring death messages with chaotic Italian brainrot inspired messages like Tung Tung Sahur, Tralalero Tralala, and more — tailored by damage cause, mob type, and PvP.
 
 Works on **Paper 1.21+** (Spigot 1.21+ may work). Requires **Java 21**.
 
