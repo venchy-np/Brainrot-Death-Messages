@@ -1,0 +1,16 @@
+name: BrainrotDeathMessages
+version: ${version}
+main: dev.codex.brainrotdeathmessages.BrainrotDeathMessagesPlugin
+api-version: '1.21'
+authors:
+  - Codex
+description: Brainrot death messages for Minecraft
+commands:
+  brainrot:
+    description: Control brainrot death messages
+    usage: /brainrot <start|stop>
+    permission: brainrot.admin
+permissions:
+  brainrot.admin:
+    description: Allows controlling the brainrot plugin
+    default: op
